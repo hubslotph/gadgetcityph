@@ -1,0 +1,32 @@
+{
+  "name": "gadget-city-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "seed": "node seed.js",
+    "seed-enhanced": "node seed-enhanced.js",
+    "fetch-images": "node fetch-phone-images.js",
+    "update-products": "node update-products-with-images.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.1",
+    "multer": "^2.0.2",
+    "sharp": "^0.34.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

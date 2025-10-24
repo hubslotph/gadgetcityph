@@ -1,0 +1,124 @@
+{
+  "iPhone 15 Pro Max": [
+    {
+      "url": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=800",
+      "thumbnail": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400",
+      "alt": "iPhone 15 Pro Max - Professional smartphone photography",
+      "source": "unsplash",
+      "photographer": "Tech Photographer"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=800",
+      "thumbnail": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=400",
+      "alt": "iPhone 15 Pro Max - Space Black edition",
+      "source": "unsplash",
+      "photographer": "Mobile Photography"
+    }
+  ],
+  "Samsung Galaxy S24 Ultra": [
+    {
+      "url": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=800",
+      "thumbnail": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400",
+      "alt": "Samsung Galaxy S24 Ultra - Android flagship smartphone",
+      "source": "unsplash",
+      "photographer": "Samsung Photography"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=800",
+      "thumbnail": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=400",
+      "alt": "Samsung Galaxy S24 Ultra - Professional camera phone",
+      "source": "unsplash",
+      "photographer": "Tech Reviews"
+    }
+  ],
+  "OnePlus 12": [
+    {
+      "url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+      "thumbnail": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "alt": "OnePlus 12 - Flagship killer smartphone",
+      "source": "unsplash",
+      "photographer": "OnePlus Photography"
+    }
+  ],
+  "MacBook Pro 16-inch M3 Max": [
+    {
+      "url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800",
+      "thumbnail": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400",
+      "alt": "MacBook Pro 16-inch - Professional laptop",
+      "source": "unsplash",
+      "photographer": "Apple Photography"
+    }
+  ],
+  "Dell XPS 13 Plus": [
+    {
+      "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "thumbnail": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+      "alt": "Dell XPS 13 Plus - Ultra-portable laptop",
+      "source": "unsplash",
+      "photographer": "Laptop Photography"
+    }
+  ],
+  "Sony WH-1000XM5": [
+    {
+      "url": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800",
+      "thumbnail": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=400",
+      "alt": "Sony WH-1000XM5 - Premium noise canceling headphones",
+      "source": "unsplash",
+      "photographer": "Audio Equipment"
+    }
+  ],
+  "Apple AirPods Pro 2": [
+    {
+      "url": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=800",
+      "thumbnail": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=400",
+      "alt": "Apple AirPods Pro 2 - Wireless earbuds",
+      "source": "unsplash",
+      "photographer": "Apple Accessories"
+    }
+  ],
+  "PlayStation 5": [
+    {
+      "url": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=800",
+      "thumbnail": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=400",
+      "alt": "PlayStation 5 - Next generation gaming console",
+      "source": "unsplash",
+      "photographer": "Gaming Console"
+    }
+  ],
+  "Apple Watch Series 9": [
+    {
+      "url": "https://images.unsplash.com/photo-1551818255-e6e10975cd4a?w=800",
+      "thumbnail": "https://images.unsplash.com/photo-1551818255-e6e10975cd4a?w=400",
+      "alt": "Apple Watch Series 9 - Smartwatch",
+      "source": "unsplash",
+      "photographer": "Wearable Technology"
+    }
+  ],
+  "iPad Pro 12.9-inch M2": [
+    {
+      "url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800",
+      "thumbnail": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400",
+      "alt": "iPad Pro 12.9-inch - Professional tablet",
+      "source": "unsplash",
+      "photographer": "Tablet Photography"
+    }
+  ],
+  "Anker PowerCore 20,000mAh Power Bank": [
+    {
+      "url": "https://images.unsplash.com/photo-1609592960425-8e50a0a5b7e9?w=800",
+      "thumbnail": "https://images.unsplash.com/photo-1609592960425-8e50a0a5b7e9?w=400",
+      "alt": "Anker PowerCore 20000 - Portable charger",
+      "source": "unsplash",
+      "photographer": "Power Accessories"
+    }
+  ],
+  "Sony Alpha 7 IV": [
+    {
+      "url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800",
+      "thumbnail": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400",
+      "alt": "Sony Alpha 7 IV - Professional mirrorless camera",
+      "source": "unsplash",
+      "photographer": "Camera Equipment"
+    }
+  ]
+}
