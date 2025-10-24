@@ -1,0 +1,13 @@
+{
+  "name": "gadget-city-ph",
+  "version": "1.0.0",
+  "description": "Full-stack e-commerce platform for gadgets",
+  "scripts": {
+    "build": "cd gadget-city-frontend && npm install && npm run build",
+    "dev": "concurrently \"cd gadget-city-backend && npm run dev\" \"cd gadget-city-frontend && npm start\"",
+    "install-all": "cd gadget-city-backend && npm install && cd ../gadget-city-frontend && npm install"
+  },
+  "keywords": ["ecommerce", "react", "nodejs", "mongodb"],
+  "author": "HubSlot PH",
+  "license": "ISC"
+}
