@@ -19,10 +19,11 @@ Set these environment variables in your Vercel dashboard:
 
 ### 2. Vercel Configuration
 The project is configured with:
-- Frontend build output: `gadget-city-frontend/build`
-- API routes: `/api/*` → `api/index.js` (serverless function)
-- Serverless function timeout: 30 seconds
-- Backend dependencies included in root package.json
+- Frontend: Static build from `gadget-city-frontend/` using `@vercel/static-build`
+- Backend: Serverless function at `api/index.js` using `@vercel/node`
+- API routes: `/api/*` → `api/index.js`
+- Static files: `/*` → `gadget-city-frontend/build/`
+- Uses legacy `builds` and `routes` configuration for monorepo structure
 
 ### 3. Build Process
 Vercel will automatically:
