@@ -20,8 +20,9 @@ Set these environment variables in your Vercel dashboard:
 ### 2. Vercel Configuration
 The project is configured with:
 - Frontend build output: `gadget-city-frontend/build`
-- API routes: `/api/*` → `gadget-city-backend/api/index.js`
+- API routes: `/api/*` → `api/index.js` (serverless function)
 - Serverless function timeout: 30 seconds
+- Backend dependencies included in root package.json
 
 ### 3. Build Process
 Vercel will automatically:

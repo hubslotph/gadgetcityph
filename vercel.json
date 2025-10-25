@@ -4,14 +4,14 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "/gadget-city-backend/api/index.js"
+      "destination": "/api/index.js"
     }
   ],
   "env": {
     "NODE_ENV": "production"
   },
   "functions": {
-    "gadget-city-backend/api/index.js": {
+    "api/index.js": {
       "maxDuration": 30
     }
   }
