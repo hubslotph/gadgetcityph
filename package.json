@@ -5,9 +5,15 @@
   "scripts": {
     "build": "cd gadget-city-frontend && npm install && npm run build",
     "dev": "concurrently \"cd gadget-city-backend && npm run dev\" \"cd gadget-city-frontend && npm start\"",
-    "install-all": "cd gadget-city-backend && npm install && cd ../gadget-city-frontend && npm install"
+    "install-all": "cd gadget-city-backend && npm install && cd ../gadget-city-frontend && npm install",
+    "vercel-build": "cd gadget-city-frontend && npm install && npm run build"
   },
-  "keywords": ["ecommerce", "react", "nodejs", "mongodb"],
+  "keywords": [
+    "ecommerce",
+    "react",
+    "nodejs",
+    "mongodb"
+  ],
   "author": "HubSlot PH",
   "license": "ISC"
 }

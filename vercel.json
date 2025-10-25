@@ -1,26 +1,10 @@
 {
   "version": 2,
-  "builds": [
+  "outputDirectory": "gadget-city-frontend/build",
+  "rewrites": [
     {
-      "src": "gadget-city-frontend/package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "build"
-      }
-    },
-    {
-      "src": "gadget-city-backend/api/index.js",
-      "use": "@vercel/node"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/api/(.*)",
-      "dest": "gadget-city-backend/api/index.js"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "gadget-city-frontend/build/$1"
+      "source": "/api/(.*)",
+      "destination": "/gadget-city-backend/api/index.js"
     }
   ],
   "env": {
